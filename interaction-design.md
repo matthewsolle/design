@@ -12,8 +12,8 @@ Below are some of the activities carried out by Interaction Designers
 *   Study any third party offerings
 *   Help the team to identify and investigate pain points 
 *   Identify the riskiest assumptions
-*   Help the team to with the creation of Journey Maps and as-is Service Maps
-*   Make plans for Alpha  ('How might we statements', challenge the need for an Alpha, Should there be more than 1 Alpha?)
+*   Help the team with the creation of Journey Maps and as-is Service Maps
+*   Make plans for Alpha ('How might we statements', challenge the need for an Alpha, Should there be more than 1 Alpha?)
 
 
 ### Alpha
